@@ -1,13 +1,4 @@
-/* Styling the Carousel
 
-
-6) The 'carousel-actions' needs to be on top of the slider, so think about positioning 
-and how you can use relative/absolute positioning to put the 'carousel-actions' on top of 
-the slider
-7) Make some beautiful buttons!
-8) Space those buttons from the left & right - we want to make sure they're not touching 
-the edges of the slides, but adequately spaced
-*/ 
 
 h1{
     text-align: center;
